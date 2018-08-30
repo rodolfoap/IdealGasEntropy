@@ -1,10 +1,5 @@
 // Calculates the entropy
 void findEntropy() {
-
-        if (interaction>=width-1) {
-                save("entropycurve.png");
-                noLoop();
-        }
         // The energy is calculated by adding all the individual ball's energy values, and must keep constant.
         print("E: ");
         totalEnergy=0;

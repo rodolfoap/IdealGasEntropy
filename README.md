@@ -10,6 +10,8 @@ This is an example of a classical thermodynamic system of two reservoires that b
 * See the blue curve, representing the total entropy (S).
 * The values of entropy and energy are also printed on the Processing-3 console: individually and totals.
 
+![Entropy](https://raw.githubusercontent.com/rodolfoap/IdealGasEntropy/master/entropy.png)
+
 # Notes
 * The energy on both containers remains constant, first thermodynamic principle. It is constantly calculated by accumulating the kinetic energy of all the balls.
 
